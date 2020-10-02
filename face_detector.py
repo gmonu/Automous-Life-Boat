@@ -1,3 +1,4 @@
+#code for dectecting face of human
 import numpy as np
 import cv2
 import serial
