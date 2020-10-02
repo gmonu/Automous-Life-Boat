@@ -10,3 +10,5 @@
           at any time, nor is a human passenger required to be present in the vehicle at all. An autonomous
           vehicle can go anywhere a traditional vehicle goes and do everything that an experienced
           human driver does 
+          It constitute part of a larger group of undersea systems known as unmanned underwater
+          vehicles
